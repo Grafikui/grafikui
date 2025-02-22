@@ -15,9 +15,9 @@
 ---
 
 ### About Me  
-🚀 **Founder of GrafikUi.com – specializing in precision UI/UX design and brand development.**.  
-💡 **Passionate about frontend development** – building seamless, visually stunning interfaces.  
-🎯 **Blending design + development** – where aesthetics & functionality meet.  
+- **Founder of GrafikUi.com – specializing in precision UI/UX design and brand development.**.  
+- **Passionate about frontend development** – building seamless, visually stunning interfaces.  
+- **Blending design + development** – where aesthetics & functionality meet.  
 
 ---
 
@@ -40,8 +40,9 @@
 
 ### 📊 GitHub Stats  
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Grafikui&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Grafikui&show_icons=true&theme=tokyonight&count_private=true&hide=prs&include_all_commits=true&hide_rank=false" alt="GitHub Stats">
 </p>
+
 
 ---
 
@@ -52,9 +53,6 @@
 💼 **LinkedIn:** [GrafikUi LinkedIn](https://www.linkedin.com/company/grafikui)  
 
 ---
-
-🔹 **_Crafting experiences, not just designs!_**  
-🔹 **_Code meets creativity—let’s build something awesome._**
 
 
 <!--
