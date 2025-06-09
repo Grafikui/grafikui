@@ -4,8 +4,7 @@
   <img src="https://res.cloudinary.com/dxlrro36f/image/upload/v1740227124/Screenshot_2025-02-22_at_12.23.38_gslp8p.png" alt="GrafikUi Banner" width="100%">
 </p>
 
-<h1 align="center">Hey, I'm Omar!</h1>
-<h3 align="center">Founder of <a href="https://www.grafikui.com" target="_blank">GrafikUi</a> | UI/UX Designer | Frontend Developer</h3>
+<h3 align="center"><a href="https://www.grafikui.com" target="_blank">GrafikUi</a> | UI/UX Designer | Frontend Developer</h3>
 
 <p align="center">
   <a href="https://www.grafikui.com"><img src="https://img.shields.io/badge/Website-GrafikUi.com-FF4081?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
