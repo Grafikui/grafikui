@@ -14,8 +14,8 @@
 ---
 
 ### About Me  
-- **Founder of GrafikUi.com – specializing in precision UI/UX design and brand development.**.  
-- **Passionate about frontend development** – building seamless, visually stunning interfaces.  
+- **GrafikUi.com – specializing in precision UI/UX design and brand development.**.  
+- **Passionate about web development** – building seamless, visually stunning interfaces.  
 - **Blending design + development** – where aesthetics & functionality meet.  
 
 ---
